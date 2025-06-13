@@ -1,0 +1,177 @@
+<!-- Unicode Font Style Generator with Sidebar Categories -->
+<div class="ufg-main-wrap">
+  <div class="ufg-topbar">
+    <input id="ufg-text-input" type="text" placeholder="✍️ Type your text here">
+  </div>
+  <div class="ufg-content-row">
+    <div class="ufg-sidebar" id="ufg-sidebar">
+      <!-- Categories will be rendered here -->
+    </div>
+    <div class="ufg-mainarea">
+      <div class="ufg-cat-title" id="ufg-cat-title"></div>
+      <div class="ufg-fonts-grid" id="ufg-fonts-grid"></div>
+      <button class="ufg-generate-btn" id="ufg-generate-btn">Generate More</button>
+    </div>
+  </div>
+</div>
+<style>
+.ufg-main-wrap { max-width: 1100px; margin: 32px auto; background: #fff; border-radius: 12px; box-shadow: 0 2px 12px #0002; }
+.ufg-topbar { padding: 24px 16px 8px 16px; border-bottom: 1.5px solid #e5e5ed; background: #f5f7fa; }
+#ufg-text-input {
+  width: 100%; max-width: 600px; font-size: 1.15em; padding: 12px;
+  border: 2px solid #1e3b8a; border-radius: 12px; outline: none; margin: 0 auto; display: block; background: #f7f8fa;
+}
+.ufg-content-row { display: flex; align-items: flex-start; }
+.ufg-sidebar {
+  min-width: 180px; max-width: 220px; border-right: 1.5px solid #e5e5ed; background: #f5f7fa;
+  padding: 18px 0 18px 0; height: 100%;
+}
+.ufg-cat-btn {
+  display: block; width: 100%; text-align: left;
+  padding: 11px 28px; border: none; background: none; color: #1e3b8a; font-size: 1.08em; margin-bottom: 3px;
+  cursor: pointer; border-radius: 0 18px 18px 0; transition: background .18s,color .18s;
+}
+.ufg-cat-btn.active, .ufg-cat-btn:focus { background: #1e3b8a; color: #fff; font-weight: 600; }
+.ufg-mainarea { flex: 1; padding: 24px 24px 0 24px; }
+.ufg-cat-title { font-size: 1.25em; font-weight: bold; margin-bottom: 16px; color: #1e3b8a; letter-spacing: 1px; }
+.ufg-fonts-grid { display: flex; flex-wrap: wrap; gap: 12px;}
+.ufg-font-output {
+  background: #fff; border: 1.5px solid #ececec; border-radius: 8px;
+  min-width: 220px; flex: 1 1 320px; max-width: 99vw;
+  margin-bottom: 8px; position: relative; padding: 14px 44px 14px 16px;
+  font-size: 1.22em; color: #222; display: flex; align-items: center;
+  box-shadow: 0 1.5px 6px #0001; transition: border .2s, box-shadow .2s;
+  overflow-x: auto; font-family: inherit;
+}
+.ufg-font-output.boxed, .ufg-font-output.glitch, .ufg-font-output.joiner {
+  border: 2.5px solid #1e3b8a; background: #1e3b8a; color: #fff; font-weight: 500;
+}
+.ufg-copy-btn {
+  position: absolute; top: 50%; right: 12px; transform: translateY(-50%);
+  background: #ececec; color: #1e3b8a; border: none; border-radius: 25px;
+  font-weight: 600; font-size: 1em; padding: 6px 14px; cursor: pointer;
+  transition: background .2s;
+}
+.ufg-font-output.boxed .ufg-copy-btn,
+.ufg-font-output.glitch .ufg-copy-btn,
+.ufg-font-output.joiner .ufg-copy-btn {
+  background: #fff; color: #1e3b8a;
+}
+.ufg-copy-btn.copied { background: #18a00a; color: #fff; }
+.ufg-generate-btn {
+  display: block; margin: 24px auto 30px auto; font-size: 1.1em;
+  background: #1e3b8a; color: #fff; border: none; border-radius: 8px;
+  padding: 12px 34px; cursor: pointer; font-weight: 600;
+  box-shadow: 0 2px 8px #0001; transition: background .2s;
+}
+.ufg-generate-btn:hover { background: #143067; }
+@media (max-width: 900px) {
+  .ufg-content-row { flex-direction: column; }
+  .ufg-sidebar { max-width: 100vw; min-width: 0; border-right: none; border-bottom: 1.5px solid #e5e5ed; display: flex; flex-wrap: wrap; gap: 0 6px; padding-left:12px; }
+  .ufg-cat-btn { border-radius: 10px; min-width: 110px; }
+  .ufg-mainarea { padding: 20px 7vw; }
+}
+@media (max-width: 600px) {
+  .ufg-mainarea { padding: 12px 2vw 0 2vw; }
+  .ufg-topbar { padding: 14px 5px 8px 5px; }
+}
+</style>
+<script>
+(function(){
+// FONT CATEGORIES AND GENERATORS
+function randpick(arr) { return arr[Math.floor(Math.random()*arr.length)]; }
+function randomSymbols(n) { const s=["★","✪","☯","✿","♡","❤","✧","❖","✦","☸️","♛","♚","♞","♟","♢","♤","♧","♩","♪","♬","✰"]; let r=""; for(let i=0;i<n;i++) r+=randpick(s); return r; }
+function randomLines() { const l=["─","━","═","⎯","⎺","⎻","⎼","╭","╮","╯","╰"]; let r=""; for(let i=0;i<3+Math.floor(Math.random()*3);i++) r+=randpick(l); return r; }
+function randomSquiggle() { const s=["~","〰️","∿","⁓","˜","﹋","﹏","﹎"]; let r=""; for(let i=0;i<3+Math.floor(Math.random()*3);i++) r+=randpick(s); return r; }
+function randomHearts() { const h=["♥","♡","❤","💖","💗","💘","💝","💕","💟"]; let r=""; for(let i=0;i<2+Math.floor(Math.random()*3);i++) r+=randpick(h); return r; }
+function randomStars() { const s=["★","✩","✯","✰","⋆","🌟","⭐","✨"]; let r=""; for(let i=0;i<2+Math.floor(Math.random()*3);i++) r+=randpick(s); return r; }
+function randomCute() { const c=["🎀","✿","❀","(づ｡◕‿‿◕｡)づ","｡･:*:･ﾟ★,｡･:*:･ﾟ☆"]; let r=""; for(let i=0;i<2+Math.floor(Math.random()*2);i++) r+=randpick(c)+" "; return r.trim(); }
+function randomEmoticon() { const e=["(｡◕‿‿◕｡)","ʕ•ᴥ•ʔ","⊂(◉‿◉)つ","(づ｡◕‿‿◕｡)づ","(•‿•)"]; return randpick(e);}
+function randomSad() { const s=["(╥﹏╥)","(︶︹︺)","(ಥ﹏ಥ)","(｡•́︿•̀｡)"]; return randpick(s);}
+function randomAsian() { const a=["リサフランク","現代の","若者が履く","真夜中の","ドアホット","ドッグ","マスター","ストライカー","ソニー"]; let r=""; for(let i=0;i<2+Math.floor(Math.random()*2);i++) r+=randpick(a)+" "; return r.trim();}
+function randomBirthday() { const b=["🎂","🎉","🎊","🎁","🎈","🍰"]; let r=""; for(let i=0;i<2+Math.floor(Math.random()*2);i++) r+=randpick(b)+" "; return r.trim(); }
+function fullwidth(text) {return text.replace(/[A-Za-z0-9]/g, c=>String.fromCharCode(c>='A'&&c<='Z'?c.charCodeAt(0)+0x1F130-65:c>='a'&&c<='z'?c.charCodeAt(0)+0x1F150-97:c>='0'&&c<='9'?c.charCodeAt(0)+0x1F100-48:c.charCodeAt(0)));}
+function subscript(text){const s={'a':'ₐ','e':'ₑ','h':'ₕ','i':'ᵢ','j':'ⱼ','k':'ₖ','l':'ₗ','m':'ₘ','n':'ₙ','o':'ₒ','p':'ₚ','r':'ᵣ','s':'ₛ','t':'ₜ','u':'ᵤ','v':'ᵥ','x':'ₓ'};return text.split("").map(c=>s[c]||c).join("");}
+function superscript(text){const s={'a':'ᵃ','b':'ᵇ','c':'ᶜ','d':'ᵈ','e':'ᵉ','f':'ᶠ','g':'ᵍ','h':'ʰ','i':'ⁱ','j':'ʲ','k':'ᵏ','l':'ˡ','m':'ᵐ','n':'ⁿ','o':'ᵒ','p':'ᵖ','r':'ʳ','s':'ˢ','t':'ᵗ','u':'ᵘ','v':'ᵛ','w':'ʷ','x':'ˣ','y':'ʸ','z':'ᶻ'};return text.split("").map(c=>s[c]||c).join("");}
+
+// CATEGORY CONFIG
+const FONT_CATEGORIES = [
+  { key: 'boxed', label: 'Boxed', generator: t=>[t.replace(/([^\s])/g,"[̲̅$1]"),t.replace(/([^\s])/g,"🄱$1"),fullwidth(t)][Math.floor(Math.random()*3)], class: 'boxed' },
+  { key: 'glitch', label: 'Glitch', generator: t=>{const g=[["̷","̸","͜","͡","̶"],["̷","̸"],["̴"]];let v=randpick(g);return t.split('').map((c,i)=>c+v[i%v.length]).join('');}, class:'glitch'},
+  { key: 'joiner', label: 'Joiner', generator: t=>{const j=['≋','░','⋆','·','~','^'];const v=randpick(j);return v+t.split('').join(v)+v;}, class:'joiner'},
+  { key: 'heart', label: 'Heart Decorated', generator: t=>`${randomHearts()} ${t} ${randomHearts()}` },
+  { key: 'star', label: 'Star Decoration', generator: t=>`${randomStars()} ${t} ${randomStars()}` },
+  { key: 'cute', label: 'Cute', generator: t=>`${randomCute()}${t}${randomCute()}` },
+  { key: 'symbolic', label: 'Symbolic', generator: t=>`${randomSymbols(2)} ${t} ${randomSymbols(2)}` },
+  { key: 'lines', label: 'Lines', generator: t=>`${randomLines()} ${t} ${randomLines()}` },
+  { key: 'squiggle', label: 'Squiggle', generator: t=>`${randomSquiggle()}${t}${randomSquiggle()}` },
+  { key: 'small', label: 'Small', generator: t=>randpick([subscript,superscript,s=>s.toLowerCase()])(t) },
+  { key: 'emoticon', label: 'Emoticon', generator: t=>`${randomEmoticon()} ${t} ${randomEmoticon()}` },
+  { key: 'sad', label: 'Sad', generator: t=>`${randomSad()} ${t} ${randomSad()}` },
+  { key: 'asian', label: 'Asian', generator: t=>`${randomAsian()} ${t} ${randomAsian()}` },
+  { key: 'birthday', label: 'Birthday', generator: t=>`${randomBirthday()} ${t} ${randomBirthday()}` }
+];
+// Number of styles per "generate more"
+const BATCH_SIZE = 4;
+
+// State
+let currentCategory = FONT_CATEGORIES[0].key;
+let categoryStates = {};
+FONT_CATEGORIES.forEach(c=>categoryStates[c.key]=0);
+
+function renderSidebar(){
+  const sidebar = document.getElementById('ufg-sidebar');
+  sidebar.innerHTML = '';
+  FONT_CATEGORIES.forEach(cat=>{
+    const btn = document.createElement('button');
+    btn.className = 'ufg-cat-btn'+(cat.key===currentCategory?' active':'');
+    btn.textContent = cat.label;
+    btn.onclick = function(){
+      currentCategory = cat.key;
+      renderMainArea();
+      renderSidebar();
+    };
+    sidebar.appendChild(btn);
+  });
+}
+function renderMainArea(append){
+  const cat = FONT_CATEGORIES.find(c=>c.key===currentCategory);
+  document.getElementById('ufg-cat-title').textContent = cat.label;
+  const grid = document.getElementById('ufg-fonts-grid');
+  if(!append){
+    grid.innerHTML = '';
+    categoryStates[cat.key]=0;
+  }
+  const text = document.getElementById('ufg-text-input').value || 'Preview Text';
+  for(let i=0;i<BATCH_SIZE;i++){
+    const val = cat.generator(text);
+    const out = document.createElement('div');
+    out.className = 'ufg-font-output'+(cat.class?' '+cat.class:'');
+    out.innerHTML = `<span>${val}</span><button class="ufg-copy-btn">Copy</button>`;
+    out.querySelector('.ufg-copy-btn').onclick = function(){
+      var s = this.previousSibling.textContent;
+      if(window.navigator && window.navigator.clipboard && window.navigator.clipboard.writeText){
+        window.navigator.clipboard.writeText(s);
+      }else{
+        var el = document.createElement('textarea'); el.value=s;document.body.appendChild(el);el.select();document.execCommand('copy');document.body.removeChild(el);
+      }
+      this.textContent = 'Copied!';
+      this.classList.add('copied');
+      var btn = this;
+      setTimeout(function(){btn.textContent='Copy';btn.classList.remove('copied');},1200);
+    };
+    grid.appendChild(out);
+  }
+  categoryStates[cat.key] += BATCH_SIZE;
+}
+document.getElementById('ufg-text-input').addEventListener('input', function(){
+  renderMainArea();
+});
+document.getElementById('ufg-generate-btn').onclick = function(){
+  renderMainArea(true);
+};
+// First render
+renderSidebar();
+renderMainArea();
+})();
+</script>
