@@ -1,0 +1,1478 @@
+
+<!DOCTYPE html>
+<html dir='ltr' lang='es-419' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<meta content='es' property='og:locale'/>
+<title>Fuentes de Letras &#10140;#𝟙😍 &#43457; 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 &#43458;</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<!-- Chrome, Firefox OS and Opera -->
+<meta content='#e6ecf4' name='theme-color'/>
+<!-- Windows Phone -->
+<meta content='#e6ecf4' name='msapplication-navbutton-color'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.fuentes-de-letras.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.fuentes-de-letras.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Fuentes de Letras &#10140;#𝟙😍 &#43457; 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 &#43458; - Atom" href="https://www.fuentes-de-letras.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Fuentes de Letras &#10140;#𝟙😍 &#43457; 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 &#43458; - RSS" href="https://www.fuentes-de-letras.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Fuentes de Letras &#10140;#𝟙😍 &#43457; 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 &#43458; - Atom" href="https://www.blogger.com/feeds/342769683926238149/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/04465705455369045198" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='𝓕𝓾𝓮𝓷𝓽𝓮𝓼 de Letras 🔥☆ El mejor generador de fuentes de letras en línea con fuentes de texto elegantes, símbolos y em🥰jis' name='description'/>
+<meta content='https://www.fuentes-de-letras.com/' property='og:url'/>
+<meta content='Fuentes de Letras ➜#𝟙😍 ꧁ 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 ꧂' property='og:title'/>
+<meta content='𝓕𝓾𝓮𝓷𝓽𝓮𝓼 de Letras 🔥☆ El mejor generador de fuentes de letras en línea con fuentes de texto elegantes, símbolos y em🥰jis' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYU9UxRGIFiAp20MgeEyGuZJPKfKC_hZuiljVlUrx711PVwNHH7r0WxyXFzrTgGiNS4pO2uMiUfAGLuWl41YI1q6ExSgPvhh8XeB0iLa0cTf7F8gDt-kaeIFlGau0uXt7hfevCSbAsbIR2m1B3PerQ0fPXjxgEJMRYbR9QxMQJH1teDMfgLQ4ahnJbaA/s16000/fuentes-de-letras.png' property='og:image'/>
+<!-- Google Adsence -->
+<script async='async' crossorigin='anonymous' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7552116966926808'></script>
+<!-- Google Site Verification -->
+<!-- Bing Site Verification -->
+<meta content='723F1CF55EF32F54C24B9D1DB427D1A4' name='msvalidate.01'/>
+<!-- Yendex Site Verification -->
+<meta content='3ea7f84c49460802' name='yandex-verification'/>
+<!-- Google tag (gtag.js) -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-FX43D3YJVF'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FX43D3YJVF');
+</script>
+<style id='page-skin-1' type='text/css'><!--
+*, body, html {
+box-sizing: border-box;
+}
+*, ::after, ::before {
+margin: 0;
+padding: 0;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+outline: 0;
+scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+width: 2px;
+height: 2px;
+}
+::-webkit-scrollbar-thumb {
+background: #999;
+}
+::-webkit-scrollbar-track {
+background: #f9f9f9;
+}
+a{
+text-decoration: none;
+}
+/*!************************************************
+* Blogger Template Style
+* Name: Contempo
+**************************************************/
+body, html {
+padding: 0;
+margin: 0;
+height: 100%;
+line-height: 1.5;
+overflow-wrap:break-word;
+word-break:break-word;
+word-wrap:break-word;
+font-family: sans-serif;
+font-weight: 400;
+background: #f1f1f1;
+}
+.hidden{
+display:none
+}
+.invisible{
+visibility:hidden
+}
+.container::after,.float-container::after{
+clear:both;
+content:"";
+display:table
+}
+.clearboth{
+clear:both
+}
+.container {
+max-width: 1040px;
+margin: 0 auto;
+}
+.sidebar {
+float: left;
+width: 24%;
+}
+.main {
+float: left;
+width: 74%;
+margin-left: 2%;
+}
+.main h3.title {
+display: none;
+}
+#header {
+width: 100%;
+margin: 0;
+text-align: center;
+float: left;
+}
+.header-widget{
+background: #311b92;
+border-bottom: 2px solid #311b92;
+text-align: center;
+box-shadow: 1px 5px 20px 0 rgb(0 0 0 / 25%);
+}
+.header-widget img{
+width: 400px;
+margin-top: 10px;
+}
+.settings {
+float: left;
+margin-top: 3px;
+}
+.slider {
+-webkit-appearance: none;
+width: 220px;
+height: 2px;
+background: #fff;
+outline: none;
+border-radius: 3px;
+}
+.slider:hover {
+opacity: 1;
+}
+.slider::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 23px;
+height: 23px;
+background: #fff;
+cursor: pointer;
+border-radius: 50%;
+box-shadow: 1px 2px 4px 0 rgb(0 0 0 / 21%);
+}
+.slider::-moz-range-thumb {
+width: 25px;
+height: 25px;
+background: #fff;
+cursor: pointer;
+border-radius: 50%;
+box-shadow: 1px 2px 4px 0 rgb(0 0 0 / 21%);
+}
+.share_button {
+float: right;
+width: 50%;
+margin: 5px 0;
+padding: 0 10px;
+}
+.share {
+padding-top: 5px;
+display: block;
+float: left;
+text-transform: uppercase;
+color: #888;
+margin-right: 10px;
+font-size: 13px;
+}
+/* header */
+.share {
+float: right;
+}
+.share span {
+color: #999;
+}
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+display: inline-block
+}
+.resp-sharing-button__link {
+text-decoration: none;
+color: #fff;
+padding-top: 10px;
+}
+.resp-sharing-button {
+border-radius: 50%;
+transition: 25ms ease-out;
+padding: 0.5em;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+.resp-sharing-button__icon svg {
+width: 1em;
+height: 1em;
+margin-right: 0.4em;
+vertical-align: top
+}
+.resp-sharing-button--small svg {
+margin: 0;
+vertical-align: middle
+}
+/* Non solid icons get a stroke */
+.resp-sharing-button__icon {
+stroke: #fff;
+fill: none
+}
+/* Solid icons get a fill */
+.resp-sharing-button__icon--solid,
+.resp-sharing-button__icon--solidcircle {
+fill: #fff;
+stroke: none
+}
+.resp-sharing-button--twitter {
+background-color: #55acee
+}
+.resp-sharing-button--twitter:hover {
+background-color: #2795e9
+}
+.resp-sharing-button--facebook {
+background-color: #3b5998
+}
+.resp-sharing-button--facebook:hover {
+background-color: #2d4373
+}
+.resp-sharing-button--email {
+background-color: #777
+}
+.resp-sharing-button--email:hover {
+background-color: #5e5e5e
+}
+.resp-sharing-button--whatsapp {
+background-color: #25D366
+}
+.resp-sharing-button--whatsapp:hover {
+background-color: #1da851
+}
+.resp-sharing-button--facebook {
+background-color: #354761;
+border-color: #354761;
+}
+.resp-sharing-button--facebook:hover,
+.resp-sharing-button--facebook:active {
+background-color: #01579b;
+border-color: #01579b;
+}
+.resp-sharing-button--twitter {
+background-color: #354761;
+border-color: #354761;
+}
+.resp-sharing-button--twitter:hover,
+.resp-sharing-button--twitter:active {
+background-color: #2795e9;
+border-color: #2795e9;
+}
+.resp-sharing-button--email {
+background-color: #354761;
+border-color: #354761;
+}
+.resp-sharing-button--email:hover,
+.resp-sharing-button--email:active {
+background-color: #5e5e5e;
+border-color: #5e5e5e;
+}
+.resp-sharing-button--whatsapp {
+background-color: #354761;
+border-color: #354761;
+}
+.resp-sharing-button--whatsapp:hover,
+.resp-sharing-button--whatsapp:active {
+background-color: #1DA851;
+border-color: #1DA851;
+}
+.resp-sharing-button--telegram {
+background-color: #354761;
+}
+.resp-sharing-button--telegram:hover {
+background-color: #4B97D1;}
+.thenitesharya-text {
+float: left;
+padding: 0 0 5px 0;
+width: 100%;
+border-radius: 15px;
+}
+#thenitesharya-text {
+width: 100%;
+padding: 0.6em 0;
+outline: 0;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+border: 2px solid #311b92;
+line-height: 1.4;
+margin-bottom: 0;
+display: block;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+font-family: sans-serif;
+letter-spacing: 1px;
+border-radius: 10px;
+box-shadow: 0 -5px 20px 0 rgb(0 0 0 / 15%);
+z-index: 999;
+}
+.thenitesharya-text .container {
+position: relative;
+}
+.thenitesharya-text .clear {
+position: absolute;
+top: 2px;
+right: 2px;
+color: #de0707;
+font-size: 20px;
+padding: 5px 15px;
+line-height: 1.5;
+background: 0 0;
+border: none;
+z-index: 999;
+cursor: pointer;
+outline: none;
+}
+.thenitesharya-text .clear:hover {
+color: #000;
+}
+.thenitesharya-text.fixedtop {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 999;
+}
+#thenitesharya-text::placeholder{
+color:#cbd1da
+}
+.share-link {
+float: left;
+width: 100%;
+padding: 15px;
+font-size: 14px;
+position: relative;
+text-align: center;
+overflow: auto;
+cursor: pointer;
+}
+#share-link {
+color: #44444487;
+cursor: pointer;
+}
+.share-link span {
+color: #405de67a;
+font-family: arial,sans-serif;
+}
+#random-cloud {
+font-family: Arial Unicode MS,lucida grande,tahoma,verdana,arial,sans-serif;
+text-align: center;
+width: 100%;
+height: 120px;
+float: left;
+overflow: auto;
+padding: 10px 0;
+margin-bottom: 20px;
+}
+#random-cloud div {
+padding: 0;
+border-radius: 10px;
+padding: 10px;
+cursor:pointer;
+display: inline-block;
+border: 1px solid transparent;
+color: #444444a1;
+position: relative;
+}
+#random-cloud div:hover{
+background: #fff;
+border: 1px solid #ececec;
+color: #000;
+}
+#random-cloud button {
+top: -5px !important;
+right: -15px !important;
+padding: 3px 8px !important;
+}
+#random-cloud .size10 {
+font-size: 35px;
+}
+#random-cloud .size9 {
+font-size: 32px;
+}
+#random-cloud .size8 {
+font-size: 29px;
+}
+#random-cloud .size7 {
+font-size: 26px;
+}
+#random-cloud .size6 {
+font-size: 25px;
+}
+#random-cloud .size5 {
+font-size: 22px;
+}
+#random-cloud .size4 {
+font-size: 19px;
+}
+#random-cloud .size3 {
+font-size: 16px;
+}
+#random-cloud .size2 {
+font-size: 14px;
+}
+#random-cloud .size1 {
+font-size: 13px;
+}
+.bookmarks a {
+margin: 5px 0;
+background: #c6d2e2;
+color: #00000075;
+text-align: left;
+display: inline-block;
+padding: 8px 20px;
+border-radius: 10px;
+transition: all .2s ease-in-out;
+text-decoration: none;
+position: relative;
+}
+.bookmarks a:hover{
+background: #000;
+color: #fff;
+}
+.bookmarks a span, .links a span {
+position: absolute;
+display: block;
+padding: 0px 5px;
+border-radius: 4px;
+background: red;
+color: #fff;
+font-size: 10px;
+top: -5px;
+right: -2px;
+}
+.infinite-scroll {
+float: right;
+}
+.switch {
+position: relative;
+display: inline-block;
+width: 60px;
+height: 34px;
+}
+.switch input {
+opacity: 0;
+width: 0;
+height: 0;
+}
+.sliders {
+position: absolute;
+cursor: pointer;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: #ccc;
+-webkit-transition: .4s;
+transition: .4s;
+}
+.sliders:before {
+position: absolute;
+content: "";
+height: 26px;
+width: 26px;
+left: 4px;
+bottom: 4px;
+background-color: white;
+-webkit-transition: .4s;
+transition: .4s;
+}
+input:checked + .sliders {
+background-color: #311b91;
+}
+input:focus + .sliders {
+box-shadow: 0 0 1px #2196F3;
+}
+input:checked + .sliders:before {
+-webkit-transform: translateX(26px);
+-ms-transform: translateX(26px);
+transform: translateX(26px);
+}
+/* Rounded sliders */
+.sliders.round {
+border-radius: 34px;
+}
+.sliders.round:before {
+border-radius: 50%;
+}
+.ads {
+display: table!important;
+margin: 10px 0!important;
+float: left;
+clear: both;
+width: 100%!important;
+}
+.fuentesdeletrasmain {
+float: left;
+width: 100%;
+}
+.fuentesdeletraslist, .fuentesdeletrasrecentlist {
+display: block;
+float: left;
+text-align: left;
+width: 100%;
+position: relative;
+margin-bottom: 10px;
+}
+.fuentesdeletras {
+position: relative;
+display: block;
+float: left;
+width: 100%;
+overflow: auto;
+margin-bottom: 10px;
+border-radius: 4px;
+font-family: Arial Unicode MS,lucida grande,tahoma,verdana,arial,sans-serif;
+cursor: pointer;
+background: #fff;
+text-align: left;
+padding: 1%;
+border: 1px solid #d3d3d3;
+}
+.fuentesdeletras span {
+color: #c0c9d4;
+position: absolute;
+padding: 0 5px;
+left: 12px;
+bottom: 5px;
+font-size: 10px;
+border-radius: 3px;
+text-transform: uppercase;
+z-index: 9;
+}
+.fuentesdeletras p {
+margin: 0;
+font-size: 20px;
+padding: 1px 0 10px 10px;
+color: #444;
+font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+}
+.fuentesdeletras:hover {
+border-color: #311b92;
+}
+.fuentesdeletras:hover p{
+color: #311b92;
+}
+.fuentesdeletras button,#random-cloud button,.share-link button{
+position: absolute;
+top: 16px;
+right: 16px;
+background: #000;
+color: #fff;
+font-size: 13px;
+padding: 2px 10px;
+border-radius: 50px;
+font-variant-caps: all-small-caps;
+letter-spacing: 1px;
+border: none;
+-webkit-transition: margin-right 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+-o-transition: margin-right 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+transition: margin-right 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+}
+.fuentesdeletraslist h2 {
+font-weight: 300;
+color: #444444a1;
+text-transform: uppercase;
+font-size: 18px;
+padding: 5px;
+float: left;
+}
+.entry-content .fuentesdeletraslist:first-child h2{
+display:none;
+}
+h3.post-title.entry-title {
+font-size: 25px;
+font-weight: 300;
+margin: 10px;
+}
+/* side ads box */
+#fancy-info.disappearing {
+display: none;
+visibility: hidden;
+opacity: 0;
+transition: visibility .1s,opacity .1s linear;
+transition-delay: .1s;
+}
+#fancy-info {
+position: absolute;
+top: -2000px;
+left: -3000px;
+width: 360px;
+cursor: pointer;
+background: #fff;
+border-radius: 5px;
+overflow: hidden;
+-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+-moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.25);
+z-index: 10000;
+}
+#fuentesdeletras-name {
+background: #000;
+text-align: center;
+padding: 3px 4px;
+font-size: 16px;
+color: #ffffff80;
+}
+#fancy-info .textarea{
+width: 100%;
+padding: 10px;
+text-align: center;
+display: block;
+cursor:text;
+background: #e6ecf4;
+border: none;
+font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+}
+#fancy-info-copy-container{
+text-align: center;
+display: block;
+width: 100%;
+}
+#adsInPopupDialog {
+padding-top: 12px;
+text-align: center;
+margin: 0 auto;
+}
+#fancy-copy-btn {
+text-align: center;
+height: 30px;
+width: 140px;
+margin-top: 3px;
+margin-bottom: 3px;
+background: #18a00a;
+border: none;
+color: #ffffff82;
+cursor: pointer;
+font-size: 14px;
+font-weight: 600;
+border-radius: 10px;
+}
+#fancy-copy-btn:hover{
+color: #fff;
+}
+.copiedalerts{
+display: block;
+visibility: hidden;
+z-index: 2147483647!important;
+left: 0;
+top: 10%;
+width: 1040px;
+background: #fff;
+overflow: hidden;
+border-radius: 5px;
+-webkit-box-shadow: 0px 0px 20px 5px rgb(0 0 0 / 25%);
+-moz-box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.25);
+box-shadow: 0px 0px 20px 5px rgb(0 0 0 / 25%);
+}
+div#clock {
+color: #fff;
+display: block;
+position: fixed;
+right: 10px;
+background: #d90000;
+top: 10px;
+text-align: center;
+font-size: 20px;
+z-index: 9;
+padding: 6px 0;
+height: 40px;
+width: 40px;
+border-radius: 50%;
+box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.21);
+}
+button.close-top {
+border: none;
+position: absolute;
+right: 0;
+display: block;
+background: #d90000;
+color: #fff;
+font-size: 22px;
+padding: 8px 15px;
+border-radius: 50%;
+cursor: pointer;
+}
+.alert-header {
+padding: 7px;
+background-color: #000;
+color: #fff;
+text-align: center;
+word-wrap: break-word;
+}
+.alert-header spam.name {
+color: #ffffff80;
+display: block;
+font-size: 18px;
+text-transform: uppercase;
+}
+.the_copied_text {
+width: 100%;
+text-align: center;
+padding: 10px;
+border: none;
+background: #fff;
+color: #000;
+font-size: 200%;
+border-radius: 5px;
+font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+}
+.the_copied_text:focus {
+outline: none !important;
+border:1px solid #FFF;
+box-shadow: 0 0 10px #fff;
+}
+.the_copied_text_description .bold{
+font-weight: 700;
+}
+.the_copied_text_description {
+background: #fff;
+color: #000;
+padding: 3px 10px;
+display: inline-block;
+border-radius: 10px;
+font-size: 90%;
+}
+.ads-sec {
+width: 100%;
+float: left;
+display: block;
+}
+.close-alert {
+width: 100%;
+border: none;
+background: rgb(1, 142, 67);
+color: #fff;
+display: block;
+padding: 13px 0;
+font-size: 18px;
+cursor: pointer;
+text-transform: uppercase;
+}
+.close-alert:hover{
+background: #109519;
+}
+.page-load-status {
+text-align: center;
+color: #777;
+float: left;
+width: 100%;
+}
+.infinite-scroll-last{
+font-size: 20px;
+margin: 2px 0;
+padding: 2px 0;
+}
+p.aryapage {
+float: left;
+width: 100%;
+}
+a.aryapage-next {
+visibility: hidden;
+}
+.aload {
+font-size: 20px; /* change size here */
+position: relative;
+width: 4em;
+height: 1em;
+margin: 10px auto;
+}
+.aload span {
+display: block;
+width: 1em;
+height: 1em;
+border-radius: 0.5em;
+background: #000; /* change color here */
+border: solid 2px #ffffff78;
+position: absolute;
+animation-duration: 0.5s;
+animation-timing-function: ease;
+animation-iteration-count: infinite;
+}
+.aload span:nth-child(1),
+.aload span:nth-child(2) {
+left: 0;
+}
+.aload span:nth-child(3) { left: 1.5em; }
+.aload span:nth-child(4) { left: 3em; }
+@keyframes reveal {
+from { transform: scale(0.001); }
+to { transform: scale(1); }
+}
+@keyframes slide {
+to { transform: translateX(1.5em) }
+}
+.aload span:nth-child(1) {
+animation-name: reveal;
+}
+.aload span:nth-child(2),
+.aload span:nth-child(3) {
+animation-name: slide;
+}
+.aload span:nth-child(4) {
+animation-name: reveal;
+animation-direction: reverse;
+}
+#seotext {
+float: left;
+width: 100%;
+background: #ffffff;
+}
+#seotext img{
+max-width: 90%;
+height: auto;
+}
+#seotext p {
+margin: 10px;
+color: #444;
+}
+#footer {
+width: 100%;
+background: #000;
+}
+p.loadmore {
+text-align: center;
+float: left;
+width: 100%;
+}
+button#load-more {
+border: none;
+background: #c6d2e1;
+display: inline-block;
+padding: 12px 20px;
+border-radius: 10px;
+font-size: 20px;
+cursor: pointer;
+margin: 10px;
+color: #00000085;
+}
+button#load-more:hover{
+background: #000;
+color: #fff;
+}
+#scroll{
+display: none;
+position: fixed;
+bottom: 20%;
+right: 0;
+z-index: 999;
+background: #fff;
+border: none;
+box-shadow: 0 -5px 20px 0 rgb(0 0 0 / 15%);
+padding: 10px;
+cursor: pointer;
+border-radius: 5px 0 0 5px;
+}
+#scroll img {
+width: 30px;
+height: 30px;
+}
+#scroll:hover{transform: scale(1.1);}
+.footer-credit {
+background: #000;
+padding: 5px;
+text-align: center;
+color: #ffffff82;
+}
+.blog-feeds , .post-footer{
+display: none;
+}
+.formrow .formcol {
+width: 50%;
+float: left;
+text-align: left;
+}
+.formrow .formcol p {
+float: left;
+width: 48%;
+margin: 1%;
+}
+.formrow label {
+color: #777;
+cursor: pointer;
+}
+p.lunicreepify {
+text-align: center;
+}
+.text-contet p {
+margin: 10px;
+color: #444;
+}
+.arya-container {
+text-align: center;
+}
+.top-link a {
+display: inline-block;
+border-radius: 3px;
+color: #444;
+padding: 5px 10px;
+margin: 7px 2px;
+}
+@media only screen and (max-width: 970px){
+.share {
+margin-right: 1%;
+float: right;
+padding-top: 0px;
+font-size: 13px;
+}
+.addthis_inline_share_toolbox {
+float: left;
+width: 79%;
+}
+.at-resp-share-element.at-mobile .at-share-btn {
+margin-right: 0px;
+width: 17%;
+border-radius: 5px !important;
+float: left;
+}
+.thenitesharya-text.fixedtop{
+background: #ffffffde;
+padding:0;
+box-shadow:0px 5px 20px 0 rgb(0 0 0 / 15%);
+padding-top: 5px !important;
+border-radius: 0 0 15px 15px;
+}
+.sidebar .bookmarks {
+overflow: auto;
+white-space: nowrap;
+}
+.copiedalerts{
+width: 100%;
+left:0;
+}
+.container {
+max-width: 98%;
+}
+.main {
+margin-left: 0;
+width: 100%;
+overflow: hidden;
+padding: 2%;
+}
+.sidebar {
+width: 100%;
+}
+}
+@media only screen and (max-width: 600px){
+.bookmarks a{
+padding: 7px 15px;
+}
+#seotext img {
+max-width: 100% !important;
+height: auto;
+}
+.share_button{width: 90%}
+.header-widget img {
+width: 70%;
+}
+.formrow .formcol {
+width: 100%;
+}
+.formrow .slider{
+width: 90%;
+}
+}
+
+--></style>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<!-- data-ad-client=ca-pub-7552116966926808 -->
+
+</head>
+<body>
+<div class='header section' id='header'><div class='widget Header' data-version='2' id='Header1'>
+<div class='header-widget'>
+<a class='header-image-wrapper' href='https://www.fuentes-de-letras.com/'>
+<img alt='Fuentes de Letras ➜#𝟙😍 ꧁ 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 ꧂' data-original-height='70' data-original-width='400' src='https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=s400' srcset='https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=w120 120w, https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=w240 240w, https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=w480 480w, https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=w640 640w, https://blogger.googleusercontent.com/img/a/AVvXsEiRb8zviy4VSUbHi4In-C0s52duhhpR5K8AKeIRUA215BvEisllEfTZn6lB1mRp80AGjspw3ji0_ox3tTXlqxBUs4jY-4yS1zzsrNbuw5R4JN9m7AEiGn5aWc62wQ63pFF-731totCG90Bf7LdQBH5_6lq2G2pDAYjIvasWCeCEDjhyDQNNxuOGaF4nfw=w800 800w'/>
+</a>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML1'>
+<div class='widget-content'>
+<div class="thenitesharya-text">
+   <div class="container">
+      <textarea id="thenitesharya-text" placeholder="&#9999;&#65039; Escribe tu texto aquí :)"></textarea><button class="clear">X</button>
+      <div class="settings-share">
+       <div class="share_button">
+        <div class="container">
+            <div class="share">
+               <span>Compártelo: </span>
+               <!-- Sharingbutton Facebook -->
+               <a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fuentes-de-letras.com%2F" target="_blank" rel="noopener" aria-label="">
+                  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small">
+                     <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+                           <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </a>
+               <!-- Sharingbutton Twitter -->
+               <a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Cool%20Symbols%20%E2%9A%A1BEST%20%F0%9D%90%B9%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B8%F0%9D%93%8E%20%E2%99%A1%2B*%20%E2%98%85%E5%BD%A1%20Copy%20and%20Paste&amp;url=https%3A%2F%2Fwww.fuentes-de-letras.com%2F" target="_blank" rel="noopener" aria-label="">
+                  <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
+                     <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+                           <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </a>
+               <!-- Sharingbutton E-Mail -->
+               <a class="resp-sharing-button__link" href="mailto:?subject=Cool%20Symbols%20%E2%9A%A1BEST%20%F0%9D%90%B9%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B8%F0%9D%93%8E%20%E2%99%A1%2B*%20%E2%98%85%E5%BD%A1%20Copy%20and%20Paste&amp;body=https%3A%2F%2Fwww.fuentes-de-letras.com%2F" target="_self" rel="noopener" aria-label="">
+                  <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small">
+                     <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+                           <path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </a>
+               <!-- Sharingbutton WhatsApp -->
+               <a class="resp-sharing-button__link" href="whatsapp://send?text=Cool%20Symbols%20%E2%9A%A1BEST%20%F0%9D%90%B9%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B8%F0%9D%93%8E%20%E2%99%A1%2B*%20%E2%98%85%E5%BD%A1%20Copy%20and%20Paste%20https%3A%2F%2Fwww.fuentes-de-letras.com%2F" target="_blank" rel="noopener" aria-label="">
+                  <div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small">
+                     <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+                           <path d="M20.1 3.9C17.9 1.7 15 .5 12 .5 5.8.5.7 5.6.7 11.9c0 2 .5 3.9 1.5 5.6L.6 23.4l6-1.6c1.6.9 3.5 1.3 5.4 1.3 6.3 0 11.4-5.1 11.4-11.4-.1-2.8-1.2-5.7-3.3-7.8zM12 21.4c-1.7 0-3.3-.5-4.8-1.3l-.4-.2-3.5 1 1-3.4L4 17c-1-1.5-1.4-3.2-1.4-5.1 0-5.2 4.2-9.4 9.4-9.4 2.5 0 4.9 1 6.7 2.8 1.8 1.8 2.8 4.2 2.8 6.7-.1 5.2-4.3 9.4-9.5 9.4zm5.1-7.1c-.3-.1-1.7-.9-1.9-1-.3-.1-.5-.1-.7.1-.2.3-.8 1-.9 1.1-.2.2-.3.2-.6.1s-1.2-.5-2.3-1.4c-.9-.8-1.4-1.7-1.6-2-.2-.3 0-.5.1-.6s.3-.3.4-.5c.2-.1.3-.3.4-.5.1-.2 0-.4 0-.5C10 9 9.3 7.6 9 7c-.1-.4-.4-.3-.5-.3h-.6s-.4.1-.7.3c-.3.3-1 1-1 2.4s1 2.8 1.1 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.3.2-.7.2-1.2.2-1.3-.1-.3-.3-.4-.6-.5z"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </a>
+               <!-- Sharingbutton Telegram -->
+               <a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=Cool%20Symbols%20%E2%9A%A1BEST%20%F0%9D%90%B9%F0%9D%92%B6%F0%9D%93%83%F0%9D%92%B8%F0%9D%93%8E%20%E2%99%A1%2B*%20%E2%98%85%E5%BD%A1%20Copy%20and%20Paste&amp;url=https%3A%2F%2Fwww.fuentes-de-letras.com%2F" target="_blank" rel="noopener" aria-label="">
+                  <div class="resp-sharing-button resp-sharing-button--telegram resp-sharing-button--small">
+                     <div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+                           <path d="M.707 8.475C.275 8.64 0 9.508 0 9.508s.284.867.718 1.03l5.09 1.897 1.986 6.38a1.102 1.102 0 0 0 1.75.527l2.96-2.41a.405.405 0 0 1 .494-.013l5.34 3.87a1.1 1.1 0 0 0 1.046.135 1.1 1.1 0 0 0 .682-.803l3.91-18.795A1.102 1.102 0 0 0 22.5.075L.706 8.475z"></path>
+                        </svg>
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+       </div>
+    </div>
+   </div>
+   
+</div>
+<div class="share-link" data-clipboard-target="#share-link"> <span>(&#9758; &#865;&#176; &#860;ʖ &#865;&#176;)&#9758; Comparte el enlace de resultados con tus amigas :</span> <span id="share-link">https://www.fuentes-de-letras.com/</span> </div>
+<div id="random-cloud"></div>
+</div>
+</div></div>
+<div class='container'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='2' id='HTML3'>
+<div class='widget-content'>
+<div class="bookmarks">
+    <a href="/p/symbolic-letras.html">Symbolic</a>
+    <a href="/p/small-letra.html">Small</a>
+    <a href="/p/lines-letras.html">Lines</a>
+    <a href="/p/squiggle-letras.html">Squiggle</a>
+    <a href="/p/glitch-zalgo-letras.html">Ugly</a>
+    <a href="/p/weird-letras.html">Weird</a>
+    <a href="/p/joiner-letras.html">Joiner</a>
+    <a href="/p/boxed-letras.html">Boxed</a>
+    <a href="/p/star-decorated-letras.html">Star decorated</a>
+    <a href="/p/heart-decoration-letras.html">Heart decorated</a>
+    <a href="/p/cute-letras.html">Cute</a>
+    <a href="/p/emoticon-letras.html">Emoticon</a>
+    <a href="/p/thankyou-letras.html">Thankyou</a>
+    <a href="/p/sad-letras.html">Sad</a>
+    <a href="/p/asian-style-letras.html">Asian</a>
+    <a href="/p/birthday-letras.html">Birthday</a>
+    <a href="/p/random-letras.html">Random</a>
+    </div>
+</div>
+</div></div>
+<div class='main section' id='main'><div class='widget HTML' data-version='2' id='HTML2'>
+<h3 class='title'>
+Fancy Text List
+</h3>
+<div class='widget-content'>
+<div class="fuentesdeletrasmain">
+    <div class="fuentesdeletraslist">
+
+        <h2>Reciente</h2>
+        <div class="infinite-scroll">
+            <h2>Infinite Scroll</h2>
+            <label class="switch">
+                <input checked type="checkbox" />
+                <span class="sliders round"></span>
+            </label>
+        </div>
+        <div class="fuentesdeletrasrecentlist">
+        </div>
+        <div class="ads">
+        <!-- fuentes-de-letras.com -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7552116966926808"
+     data-ad-slot="8173032665"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+        <h2>Fuentes de letras locass</h2>
+        <div class="fuentesdeletras"><span>Crazy</span>
+            <p class="fullCrazy1">&#9820;&#9831; &#9403;ᵃη𝕔𝐲 Ｎ𝐀𝐦𝐄 🍪&#9821;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Crazy</span>
+            <p class="fullCrazy2">&#9812;&#9785; 𝒇ΔŇςㄚ ｎ𝐀𝓜ε &#9774;🐤</p>
+        </div>
+
+        <div class="fuentesdeletras"><span>Crazy with Florish Symbols</span>
+            <p class="crazyWithFlourishOrSymbols3">&#9617;&#9618;&#9619;&#9608; ℱά&#9437;&#9426;𝔶 ᑎάᵐ𝑒 &#9608;&#9619;&#9618;&#9617;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Crazy with Florish Symbols</span>
+            <p class="crazyWithFlourishOrSymbols4">😝🐙 &#9429;𝕒ηＣƳ ηΔм𝔢 🔥&#9812;</p>
+        </div>
+
+    </div>
+    <div class="fuentesdeletraslist">
+
+        <h2>Common Fuentes de Letras</h2>
+        <div class="fuentesdeletras"><span>Scriptify</span>
+            <p class="scriptify">𝐹𝒶𝓃𝒸𝓎 𝒩𝒶𝓂𝑒</p>
+        </div>
+        <div class="fuentesdeletras"><span>Cursive</span>
+            <p class="cursiveCharMap">𝓕𝓪𝓷𝓬𝔂 𝓝𝓪𝓶𝓮</p>
+        </div>
+        <div class="fuentesdeletras"><span>Old English</span>
+            <p class="oldEnglishCharMap">𝔉𝔞𝔫𝔠𝔶 𝔑𝔞𝔪𝔢</p>
+        </div>
+        <div class="fuentesdeletras"><span>Medieval</span>
+            <p class="medievalCharMap">𝕱𝖆𝖓𝖈𝖞 𝕹𝖆𝖒𝖊</p>
+        </div>
+        <div class="fuentesdeletras"><span>Double Struck</span>
+            <p class="doubleStruckCharMap">𝔽𝕒𝕟𝕔𝕪 ℕ𝕒𝕞𝕖</p>
+        </div>
+        <div class="fuentesdeletras"><span>Italic</span>
+            <p class="italicCharMap">𝘍𝘢𝘯𝘤𝘺 𝘕𝘢𝘮𝘦</p>
+        </div>
+        <div class="fuentesdeletras"><span>Bold Italic</span>
+            <p class="boldItalicCharMap">𝙁𝙖𝙣𝙘𝙮 𝙉𝙖𝙢𝙚</p>
+        </div>
+        <div class="fuentesdeletras"><span>Mono Space</span>
+            <p class="monospaceCharMap">𝙵𝚊𝚗𝚌𝚢 𝙽𝚊𝚖𝚎</p>
+        </div>
+        <div class="fuentesdeletras"><span>Lunitools bubbles</span>
+            <p class="lunitoolsbubbles">&#9403;&#9424;&#9437;&#9426;&#9448; &#9411;&#9424;&#9436;&#9428;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Round black box bubbles</span>
+            <p class="roundblackbox">🅕🅐🅝🅒🅨 🅝🅐🅜🅔</p>
+        </div>
+
+                <div class="ads">
+        <!-- fuentes-de-letras.com -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7552116966926808"
+     data-ad-slot="8173032665"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+
+        <div class="fuentesdeletras"><span>Dashbox Box</span>
+            <p class="dashbox">🇫 🇦 🇳 🇨 🇾 🇳 🇦 🇲 🇪 </p>
+        </div>
+        <div class="fuentesdeletras"><span>Inverted Squares</span>
+            <p class="invertedSquaresCharMap">🅵🅰🅽🅲🆈 🅽🅰🅼🅴</p>
+        </div>
+        <div class="fuentesdeletras"><span>Fat Text</span>
+            <p class="result result-s7">ᖴᗩᑎᑕƳ ᑎᗩᗰᗴ</p>
+        </div>
+        <div class="fuentesdeletras"><span>WideText</span>
+            <p class="wideTextCharMap">Ｆａｎｃｙ Ｎａｍｅ</p>
+        </div>
+        <div class="fuentesdeletras"><span>Bold</span>
+            <p class="boldCharMap">𝐅𝐚𝐧𝐜𝐲 𝐍𝐚𝐦𝐞</p>
+        </div>
+        <div class="fuentesdeletras"><span>Luni Tools Flip</span>
+            <p class="lunitoolsflipencode">ǝɯɐN ʎɔuɐℲ</p>
+        </div>
+        <div class="fuentesdeletras"><span>Reverse Mirror</span>
+            <p class="result result-s4">ɟɐuɔʎ uɐɯǝ</p>
+        </div>
+        <div class="fuentesdeletras"><span>Squares</span>
+            <p class="squaresCharMap">🄵🄰🄽🄲🅈 🄽🄰🄼🄴</p>
+        </div>
+        <div class="fuentesdeletras"><span>Luni Tools Mirror</span>
+            <p class="lunitoolsmirrorencode">ɘmɒͶ ʏɔᴎɒꟻ</p>
+        </div>
+        <div class="fuentesdeletras"><span>Luni Tools Mirror</span>
+            <p class="satr3">&#184;.&#183;&#10025;&#183;.&#184;&#184;.&#183;&#175;&#9059;&#10025; &#9403;&#9424;&#9437;&#9426;&#9448; &#9411;&#9424;&#9436;&#9428; &#10025;&#9059;&#175;&#183;.&#184;&#184;.&#183;&#10025;&#183;.&#184;</p>
+        </div>
+        <h2>Nuevo Agregado</h2>
+        <div class="fuentesdeletras"><span>Illuminati</span>
+            <p class="illuminati">𓂀 𝔽𝕒𝕟𝕔𝕪 ℕ𝕒𝕞𝕖 𓂀</p>
+        </div>
+        <div class="fuentesdeletras"><span>Text Gun</span>
+            <p class="textgun">&#9604;&#65083;デF&#823;a&#823;n&#823;c&#823;y&#823; &#823;N&#823;a&#823;m&#823;e&#823;&#9552;&#9552;&#9473;一</p>
+        </div>
+
+        <div class="fuentesdeletras"><span>Gamer 1</span>
+            <p class="minigame">&#9733;彡[ꜰᴀɴᴄʏ ɴᴀᴍᴇ]彡&#9733;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Gamer 2</span>
+            <p class="pubggame1">&#43457;&#3858;&#9772;𝓕𝓪𝓷𝓬𝔂 𝓝𝓪𝓶𝓮&#9772;&#3858;&#43458;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Gamer 3</span>
+            <p class="pubggame2">&#43457;&#3898;ʄǟռƈʏ ռǟʍɛ&#3899;&#43458;</p>
+        </div>
+        <div class="fuentesdeletras"><span>Gamer 4</span>
+            <p class="pubggame3">&#43457;𓊈𒆜🅵🅰🅽🅲🆈 🅽🅰🅼🅴𒆜𓊉&#43458;</p>
+        </div>
+
+        <div class="fuentesdeletras"><span>Bricks</span>
+            <p class="bricks">&#9600;&#9604;&#9600;&#9604;&#9600;&#9604;🄵🄰🄽🄲🅈 🄽🄰🄼🄴&#9600;&#9604;&#9600;&#9604;&#9600;&#9604;</p>
+        </div>
+        <div class="fuentesdeletras"><span>BIG Rus</span>
+            <p class="bigrus">&#9608;&#9619;&#9618;&shy;&#9617;&#10359;&#10242;FДИCУ ИДMΞ&#10256;&#10430;&#9617;&#9618;&#9619;&#9608;</p>
+        </div>
+    </div>
+
+</div>
+
+<div class="page-load-status" style="display: block;">
+    <div class="aload infinite-scroll-request" style="display: block;">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+    <p class="infinite-scroll-last" style="display: none;">ღƪ(ˆ&#9697;ˆ)ʃ&#9825; Esas son todas las fuentes de letras geniales que
+        tenemos &#9825;ƪ(ˆ&#9697;ˆ)ʃ&#9834;</p>
+    <p class="infinite-scroll-error">If you are facing error <a href="/p/contact-us.html">Contact Here</a></p>
+
+</div>
+<p class="aryapage">
+    <a class="aryapage-next" href="/p/symbolic-letras.html">Next page</a>
+</p>
+</div>
+</div><div class='widget Blog' data-version='2' id='Blog1'>
+<div class='blog-posts hfeed container'>
+</div>
+<div class='blog-pager container' id='blog-pager'>
+</div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Suscribirse a:
+<a class='feed-link' href='https://www.fuentes-de-letras.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Entradas (Atom)</a>
+</div>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML5'>
+<div class='widget-content'>
+<div class="bookmarks">
+    <a href="/p/symbolic-letras.html">Symbolic</a>
+    <a href="/p/small-letra.html">Small</a>
+    <a href="/p/lines-letras.html">Lines</a>
+    <a href="/p/squiggle-letras.html">Squiggle</a>
+    <a href="/p/glitch-zalgo-letras.html">Ugly</a>
+    <a href="/p/weird-letras.html">Weird</a>
+    <a href="/p/joiner-letras.html">Joiner</a>
+    <a href="/p/boxed-letras.html">Boxed</a>
+    <a href="/p/star-decorated-letras.html">Star decorated</a>
+    <a href="/p/heart-decoration-letras.html">Heart decorated</a>
+    <a href="/p/cute-letras.html">Cute</a>
+    <a href="/p/emoticon-letras.html">Emoticon</a>
+    <a href="/p/thankyou-letras.html">Thankyou</a>
+    <a href="/p/sad-letras.html">Sad</a>
+    <a href="/p/asian-style-letras.html">Asian</a>
+    <a href="/p/birthday-letras.html">Birthday</a>
+    <a href="/p/random-letras.html">Random</a>
+
+    <p style="text-transform: uppercase; text-align: center;">Otras herramientas</p>
+
+    <a href="https://www.letrasbonitas.org/" target="blank">conversor de letras</a>
+    <a href="https://www.tulisankeren.net/" target="blank">Tulisan Keren</a>
+    <a href="https://www.letrasbonitas.art/" target="blank">Letras Personalizadas</a>
+    <a href="https://www.letrasdiferentes.net/" target="blank">Letras Diferentes</a>
+    <a href="https://www.fontesdeletras.art/" target="blank">Fontes de Letras</a>
+    <a href="https://www.cambiadordeletras.org/" target="blank">Cambiador de Letras</a>
+    <a href="https://www.conversordeletra.org/" target="blank">Tipos de Letras</a>
+    <a href="https://www.ecritureinsta.net/" target="blank">Ecriture Insta</a>
+    <a href="https://www.differentfonts.org/" target="blank">Different Fonts</a>
+    <a href="https://www.cute-fonts.com" target="blank">Fonts for Instagram</a>
+    <a href="https://www.letras-bonitas.org" target="blank">Letras Bonitas</a>
+    <a href="https://www.letras-diferentes.net/" target="blank">Letras Diferentes</a>
+    <a href="https://www.fontsforinsta.art/" target="blank">Instagram Fonts</a>
+    <a href="https://www.fontesparainsta.com/" target="blank">Fontes para Instagram</a>
+    </div>
+</div>
+</div></div>
+</div>
+<div class='copiedalerts'>
+<div id='clock'><span id='seconds'>15</span></div>
+<button class='close-top'>x</button>
+<div class='alert-header'></div>
+<div class='ads-sec'>
+<!-- fuentes-de-letras.com -->
+<ins class='adsbygoogle' data-ad-client='ca-pub-7552116966926808' data-ad-format='auto' data-ad-slot='8173032665' data-full-width-responsive='true' style='display:block'></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<button class='close-alert'>X Cierralo</button>
+</div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+<script src='https://cdn.123-fonts.com/fuentes-de-letras.com/phpdadax.js?ver=1.6' type='text/javascript'></script>
+<div class='container'>
+<div class='seotext section' id='seotext'><div class='widget HTML' data-version='2' id='HTML4'>
+<div class='widget-content'>
+<h1 style="text-align: center;">Fuentes de Letras &#10140;#𝟙😍 &#43457; 𝕮𝖔𝖕𝖎𝖆𝖗 e ℙ𝕖𝕘𝕒𝕣 &#43458;</h1>
+<div class="container" style="text-align: left; padding: 10px;">
+  <p style="text-align: center;"><mark>𝓕𝓾𝓮𝓷𝓽𝓮𝓼 𝓭𝓮 𝓛𝓮𝓽𝓻𝓪𝓼 🔥 El mejor generador de fuentes de letras en
+      línea con fuentes de texto geniales y elegantes Símbolos de arte 🔥 &#9734;, em🥰ji de texto.</mark></p>
+
+  <p>Escribir es una de las partes más importantes de todas las plataformas de redes sociales en la actualidad. Su texto
+    le ayuda a expresar sus pensamientos y expresiones.</p>
+  <p>Y para hacer que su texto sea más atractivo y atractivo, puede usar diferentes estilos de <b>fuentes de letras</b>
+    en sus publicaciones y subtítulos.</p>
+  <p>Este artículo lo guiará sobre algunos de los estilos de texto más exclusivos y atractivos que puede usar en su
+    escritura. Estos son gratuitos y fáciles de usar, y puede aplicar estos estilos de texto en cualquiera de sus redes
+    sociales de forma gratuita.</p>
+
+  <center><img class="lazyload" width="1280" height="720" alt="fuentes-de-letras" 
+ data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYU9UxRGIFiAp20MgeEyGuZJPKfKC_hZuiljVlUrx711PVwNHH7r0WxyXFzrTgGiNS4pO2uMiUfAGLuWl41YI1q6ExSgPvhh8XeB0iLa0cTf7F8gDt-kaeIFlGau0uXt7hfevCSbAsbIR2m1B3PerQ0fPXjxgEJMRYbR9QxMQJH1teDMfgLQ4ahnJbaA/s16000/fuentes-de-letras.png" /></center>
+
+  <div style="margin: 10px;">
+    <h2>Estilos de fuentes de letras</h2>
+    <p>Hay diferentes <b>fuentes de letras</b> que puede usar en su pie de foto. Puede elegir entre cientos de estilos
+      según su gusto y modo de uso.</p>
+    <p>Como sabemos, el texto se usará en todas las comunicaciones y hay docenas de plataformas de redes sociales donde
+      compartimos nuestros pensamientos usando nuestra escritura.</p>
+    <p>El estilo de las <b>fuentes de letras</b> cambia según la plataforma que esté utilizando. Hemos mencionado
+      algunos de los diseños que puede usar en medios particulares y hacer que su escritura sea más hermosa y
+      profesional.</p>
+
+    <h2>Fuentes de letras para Instagram</h2>
+    <p>Instagram es una de las plataformas de redes sociales más populares y todo el mundo la usa. Acaban de presentar
+      una nueva función llamada notas donde puede cargar sus ideas y escribir el estado de su vida diaria.</p>
+    <p>Para mejorar su escritura, puede usar algunos de los estilos de fuente fluidos:</p>
+    <ul>
+      <li>N&#9829;i&#9829;c&#9829;k&#9829;f&#9829;i&#9829;n&#9829;d&#9829;e&#9829;r</li>
+      <li>&#9617;N&#9617;I&#9617;c&#9617;k&#9617;f&#9617;I&#9617;n&#9617;d&#9617;e&#9617;r&#9617;</li>
+      <li>[N&#818;&#773;][i&#818;&#773;][c&#818;&#773;][k&#818;&#773;][f&#818;&#773;][i&#818;&#773;][n&#818;&#773;][d&#818;&#773;][e&#818;&#773;][r&#818;&#773;]</li>
+      <li>&#10641;N&#10642;&#10641;i&#10642;&#10641;c&#10642;&#10641;k&#10642;&#10641;f&#10642;&#10641;i&#10642;&#10641;n&#10642;&#10641;d&#10642;&#10641;e&#10642;&#10641;r&#10642;</li>
+      <li>ミ&#9733; 𝘕𝘪𝘤𝘬𝘧𝘪𝘯𝘥𝘦𝘳 &#9733;彡</li>
+      <li>&#43457;&#8226;&#8889;&#1645;𝙽𝚒𝚌𝚔𝚏𝚒𝚗𝚍𝚎𝚛&#1645;&#8889;&#8226;&#43458;</li>
+    </ul>
+
+    <h2>Fuentes de letras para Facebook</h2>
+    <p>En cuanto a Facebook, puede usar estilos de fuente más divertidos y de apariencia única. Como hay características
+      de estado de escritura y la mayoría de las personas las usan, puede actualizar su estado de Facebook usando
+      diferentes estilos de fuente.</p>
+    <p>Le proporcionamos algunos estilos de fuente de sitios web que puede usar en sus publicaciones de Facebook.</p>
+    <ul>
+      <li>ıllıllı&#11088;🌟 N&#857;i&#857;c&#857;k&#857;f&#857;i&#857;n&#857;d&#857;e&#857;r&#857; 🌟&#11088;ıllıklı</li>
+      <li>(人&#9685;&#8255;&#9685;) ℕ𝕚𝕔𝕜𝕗𝕚𝕟𝕕𝕖𝕣 (&#8226;&#9697;&#8226;)</li>
+      <li>&#8226;&#180;&#175;`&#8226;&#187; 𝐍𝐢𝐜𝐤𝐟𝐢𝐧𝐝𝐞𝐫 &#171;&#8226;&#180;&#175;`&#8226;</li>
+      <li>]|I{&#8226;------&#187; N&#818;i&#818;c&#818;k&#818;f&#818;i&#818;n&#818;d&#818;e&#818;r&#818; &#171;------&#8226;}I|[</li>
+      <li>&#10999; N&#10803;i&#10803;c&#10803;k&#10803;f&#10803;i&#10803;n&#10803;d&#10803;e&#10803;r &#11000;</li>
+    </ul>
+
+    <h2>Fuentes de letras para blogs</h2>
+    <p>Los blogs y artículos son medios profesionales de información. Por lo tanto, no podemos usar ningún estilo de
+      texto divertido. Tenemos que usar una fuente profesional que se verá bien en nuestros sitios web o blog.</p>
+    <p>Hay algunos estilos de texto que puede encontrar fácilmente en su plataforma de escritura con bastante facilidad.
+    </p>
+    <ul>
+      <li>Roboto</li>
+      <li>Merriweather</li>
+      <li>Lobster</li>
+      <li>Indie Flower</li>
+      <li>Inconsolata</li>
+      <li>Open Sans</li>
+    </ul>
+
+    <h2>&#191;Cómo usar diferentes fuentes de letras?</h2>
+    <p>Estas <b>fuentes de letras</b> harán que su perfil y contenido en su plataforma de redes sociales sean más
+      hermosos y diferentes de los demás. Esta excelente manera de aumentar su audiencia y brindarles nuevos estilos de
+      escritura.</p>
+
+    <img style="max-width: 48%;" class="lazyload" width="900" height="1008" alt="Cómo-usarlo-fuentes-de-letras" 
+ data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPwsa_NaTVXc1_iwEu6b1sKrsA5uhN1GDD_aZT8eNf8zSuPNHiQIOVQUth8AloRMiyD8qrPfW7Rf_GBae3xCO72bsptilUwJYTmumpluLik5SGdaTRtrnQsXHKVuHnlcOinoGbTkkvyOCDHp0r7Ao4umOQJ2-gkndJi_OLahZkv9Gn0uUO6enkpC6iOA/s16000/co%CC%81mo-usarlo.png" />
+
+      <img style="max-width: 48%;" class="lazyload" width="900" height="1008" alt="Cómo-usarlo-fuentes-de-letras" 
+ data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5En8CFuLnJgRGNnC5xhEiog0vZjGySfiB_b6987czpvgFl9y_S4DeZVh2m2FJHyKjRbBUCWPD75pT-i_NyO4ZblzV2h9y6e3jMKci9PPRRKmV7FVClT32VM-HK6dgfFlGuUbcJHqruKZbs3KTT5Rt1iYAnz2aQKS38VAGf4E66fYI14VF7QePdD6mig/s16000/co%CC%81mo-usarlo-2.png" />
+
+    <p>Si desea una forma de escribir en estos diferentes estilos, podemos ayudarlo con eso. El proceso es muy simple;
+      cualquiera puede escribir en estas <b>fuentes de letras</b> siguiendo los sencillos pasos a continuación.</p>
+    <ul>
+      <li>Primero, tendrá que buscar un sitio como este que le proporcione todos estos increíbles estilos de fuente.
+      </li>
+      <li>Explore el sitio y busque el título que le gusta y desea que aparezca su escritura.</li>
+      <li>Puede copiar la oración de demostración y pegarla en las redes sociales para tener una mejor idea.</li>
+      <li>Habrá una sección para escribir tu oración. Debe escribir allí, y todos los estilos disponibles adoptarán su
+        oración.</li>
+      <li>Haga clic en la fuente que desee, que se copiará en su portapapeles.</li>
+      <li>Haga clic en pegar donde desee que esté la oración y se escribirá allí automáticamente.</li>
+      <li>Así de simple, obtendrá su atractivo título o estado al final.</li>
+    </ul>
+
+    <h2>&#191;Por qué las fuentes de letras son importantes?</h2>
+    <p>Si está activo en las plataformas de redes sociales y tiene una audiencia para entretener o interactuar. El uso
+      de estos estilos de fuente es importante para usted. Debe haber otros usuarios y creadores en su nicho, y debe
+      usar nuevas formas e ideas para usarlo en la parte superior de ellos.</p>
+
+    <p>Estas <b>fuentes de letras</b> son una tendencia muy nueva, y solo unas pocas personas las están usando, por lo
+      que si comienza a usarlas, se convertirá en una de las personas que las introdujo. Entonces, para ser relevante y
+      más persistente en las redes sociales, debe comenzar a usar estos estilos.</p>
+    <p>Algunas otras ventajas y usos de estas fuentes se mencionan a continuación:</p>
+    <ul>
+      <li>Su contenido se verá más hermoso cuando use estos nuevos estilos y diseños en su escritura.</li>
+      <li>Las personas encuentran atractivos los diferentes estilos de fuente y se detendrán para leer lo que ha escrito
+        para ellos.</li>
+      <li>Es una excelente manera de aumentar su audiencia y lectores.</li>
+      <li>Hay diferentes estilos de fuente para diferentes ocasiones, y puedes usar varios para ser único.</li>
+      <li>Si eres único, otras personas te verán como un creador de tendencias y les empezará a gustar tu estilo.</li>
+      <li>Puede usar estos estilos y diseños para atraer personas a sus subtítulos.</li>
+    </ul>
+
+    <h2>&#191;Son gratuitas las fuentes de letras?</h2>
+    <p>La mayoría de los sitios web y aplicaciones le proporcionarán todos sus estilos de fuente de forma gratuita. No
+      cobran a sus clientes por ninguno de sus diseños. Pero algunos sitios tienen una colección de diseños de fuentes
+      nuevos y de moda que son raros. El sitio podría cobrar por esos premium.</p>
+    <p>No hay necesidad de pagar nada para usar un diseño único. Hay miles de gratuitos entre los que puede elegir.
+      Entonces, a menos que no esté obligado, tenga la libertad de usar cualquier estilo que desee en su escritura y sea
+      único a su manera.</p>
+
+      <center><img class="lazyload" width="1280" height="797" alt="fuentes-de-letras" 
+ data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmzsRkfKSfdpLnKPZMoJTDZvL7B-BtHycJkJQfDXnHg_PfKGpO4hp6GxBc_4RRbkI0Wm_HvGjIK_S-cihamS2_VxrJb3RwxR2m9j0UYZCtDQFtiTALcVyUrGVV623zCS6y15A70bhOhVNVTvX1a-_eD7h3n18CD9o5Of37veNRVm5BJMOJoBhI9dvPcA/s16000/fuentes-de-letras.png" /></center>
+    <h2>Conclusión</h2>
+    <p>Social es un mundo vasto y rápido; si estás atascado en las viejas tendencias y estilos, te quedarás atrás.
+      Entonces, si quieres competir con otras personas en estas plataformas, debes probar cosas nuevas.</p>
+    <p>Las <b>fuentes de letras</b> son una tendencia única y más reciente, y solo unas pocas personas las están usando,
+      así que sea uno de los primeros en aprovechar esto.</p>
+    <p>Haga que su pensamiento cuente con estos nuevos estilos de escritura y haga que su contenido sea más divertido y
+      entretenido para los demás.</p>
+
+    <a href="#" target="blank"><img class="lazyload"
+        data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiol2u1XPfwB0tPq-SzTuxsIQ87fXAVFu59KpTFQVZYFASMcC45tts7UkfcZSG4T0cY53qRvD6KLSXOelp8ThHeYngQ1onaXSM_KFVLOCwIT9Vukk99rePt1X1hzTymeM1nuJgfUDYTWdBW/s0/chromewebstore.png"
+        alt="chrome web store" /></a>
+  </div>
+</div>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML6'>
+<div class='widget-content'>
+<div class="top-link">
+<div class="arya-container">
+<a style="background: #fd1d1d; color: #ffffff;" href="/p/privacy-policy.html">Privacy Policy</a>
+<a style="background: #074ba0; color: #ffffff;" href="/p/about-us.html">About Us</a>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class='footer no-items section' id='footer'></div>
+<div class='footer-credit'>
+    Copyright &#169; 2022-25 | <a href='https://www.fuentes-de-letras.com/' id='aryacredit'> https://www.fuentes-de-letras.com/</a>
+</div>
+
+</body>
+</html>
